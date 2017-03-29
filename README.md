@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 this is my learning of PyTorch  
 
 **ok .let's learning pytorn**
@@ -37,6 +38,14 @@ ok .let's learning pytorn
 ###  torch 和numpy 之间的转换
 #autograd
 >>>>>>> origin/master
+=======
+# this is my learning of PyTorch  
+ok .let's learning pytorn
+## first is the tourial of deeplearning with pytorch for 60 minutes
+### this is some basic operate of tensor in pytorch
+###  torch 和numpy 之间的转换
+#autograd
+>>>>>>> origin/master
 ##  baceward
 向后传播是标量向后传播，如果是tensor向后传播，必须要增加一个系数，这个系数的意思就是将这个tensor变成标量，按照一定的权值相加。
 #现在开始学习pytorch的一些例子
@@ -51,6 +60,9 @@ ok .let's learning pytorn
 # 另外，在学习中，我发现relu其实是目前最好用的激活函数
 # 反向传播时，adam比sgd好用。
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> origin/master
+=======
 >>>>>>> origin/master
 =======
 >>>>>>> origin/master
