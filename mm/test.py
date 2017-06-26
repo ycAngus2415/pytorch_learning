@@ -1,4 +1,5 @@
 import torch
+import scipy
 from torch.autograd import Variable
 
 one = torch.FloatTensor([2])
